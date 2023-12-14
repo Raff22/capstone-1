@@ -1,0 +1,45 @@
+name: health_card
+description: "A new Flutter project."
+publish_to: 'none'
+version: 
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+dependencies:
+  curved_navigation_bar: ^1.0.3
+  easy_localization: ^3.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.0.0
+  flutter_dotenv: ^5.1.0
+  
+  http: ^1.1.2
+  pinput: ^3.0.1
+  qr_flutter: ^4.1.0
+  supabase_flutter: ^1.10.25
+  barcode_widget:
+  flutter_barcode_scanner: ^2.0.0
+  url_launcher: ^6.2.1
+  file_picker: ^6.1.1
+  image_picker: ^1.0.4
+  cached_network_image: ^3.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/translations/
+    - .env
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal/Tajawal-Medium.ttf
+        - asset: assets/fonts/Tajawal/Tajawal-Regular.ttf
+        - asset: assets/fonts/Tajawal/Tajawal-Bold.ttf

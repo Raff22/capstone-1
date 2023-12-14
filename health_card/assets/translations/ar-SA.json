@@ -1,0 +1,280 @@
+{
+    "user_type_screen": {
+        "userSelection1": "أنا مسعف",
+        "userSelection2": "أنا مستخدم",
+        "buttonText": "الاستمرار",
+        "buttonText2": "Switch to English"
+    },
+    "Patient_regestraion_screen": {
+        "title": "إنشاء حساب",
+        "name": "الاسم الكامل",
+        "nameHint": "ادخل اسمك الثلاثي",
+        "email": "الايميل",
+        "emailHint": "ادخل الايميل",
+        "password": "الرقم السري",
+        "passwordHint": "ادخل الرمز السري",
+        "phone": "الهاتف",
+        "phoneHint": "ادخل رقم الهاتف",
+        "text1": "لديك حساب في مسعفي ؟ ",
+        "text2": "سجل الدخول",
+        "validatorMessage": "من فضلك قم بتعبئة جميع الخانات ",
+        "validatorMessage2": "من فضلك قم بتعبئة جميع الخانات ",
+        "passwordFormatError": "الرمز السري يجب ان يكون مكون من ٦ خانات على الاقل",
+        "phoneFormatError": "من فضلك ادخل رقم هاتف صحيح",
+        "emailFormatError": "من فضلك ادخل بريد الكتروني صحيح",
+        "buttonText": "سجل",
+        "errorMessage": "وجد خطأ في النظام"
+    },
+    "Patient_login_screen": {
+        "title": "تسجيل الدخول",
+        "email": "الايميل",
+        "emailHint": "ادخل الايميل",
+        "password": "الرقم السري",
+        "passwordHint": "ادخل الرمز السري",
+        "text1": "ليس لديك حساب؟ ",
+        "text2": "انشاء حساب جديد",
+        "buttonText": "تسجيل الدخول",
+        "errorMessage": "بيانات التسجيل غير صحيحة"
+    },
+    "ParamedicRegistrationScreen": {
+        "title": "أدخل رمز مسعفي الخاص بك",
+        "buttonText": "إدخال",
+        "note": "ملاحظة: الرمز خاص بالمسعف الذي قٌدمت بياناته من قبل جهة التوظيف إلى منصة مسعفي",
+        "notfoundmessage": "لا يوجد مسعف بهذا الرمز"
+    },
+    "otpscreen": {
+        "message": "أدخل الرمز المرسل إلى البريد الإلكتروني",
+        "buttonText": "إدخال"
+    },
+    "main_screen": {
+        "title": "تقرير العمليات",
+        "toptitle": "الصحه العامه",
+        "doctortext": "الدكتور",
+        "medicinetext": "العلاجات",
+        "medicrep": "التقارير الصحيه",
+        "buttonText": "الاستمرار",
+        "nametext": "الاسم",
+        "agetext": "العمر",
+        "IDtext": "الهويه",
+        "weighttext": "الوزن",
+        "heighttext": "الطول",
+        "bloodtext": "فصيلة الدم",
+        "birthdaytext": "تاريخ الميلاد"
+    },
+    "patient_home_screen": {
+        "welcoming_word": "مرحبا",
+        "patient_card_title": "البطاقة الطبية : ",
+        "patient_history_title": "السجل الطبي :",
+        "first_container": "طبيبي",
+        "second_container": "المعلومات الطبية",
+        "third_container": "المشاكل الفيزيائية",
+        "fourth_container": "العمليات الجراحية",
+        "fifth_container": "دوائي",
+        "sixth_container": "نتائج المختبر",
+        "seventh_container": "تقارير الأشعة"
+    },
+    "my_doctor_view": {
+        "title_screen": "طبيبي",
+        "practice_name": "اسم الطبيب : ",
+        "practice_id": "الرقم الوظيفي : ",
+        "practice_specialty": "التخصص : ",
+        "practice_address": "العنوان : ",
+        "practice_contact": "التواصل : ",
+        "description": "فضلا قم بتعبئة معلومات الطبيب",
+        "doctor_name": "اسم الطبيب",
+        "doctor_specialty": "تخصص الطبيب",
+        "doctor_address": "عنوان الطبيب",
+        "doctor_email": "ايميل الطبيب",
+        "doctor_phone": "رقم هاتف الطبيب",
+        "confirm_mess": "تم تحديث معلومات طبيبك بنجاح",
+        "OK": "حسنا"
+    },
+    "medical_inforamtion": {
+        "title_screen": "معلوماتي الطبية",
+        "patient_information": "معلومات المريض : ",
+        "emergency_contact": "جهات الاتصال الطارئة : ",
+        "chronic_disease": "الأمراض المزمنة : ",
+        "communication_challenge": "تحدي التواصل : ",
+        "medical_device": "الأجهزة الطبية : ",
+        "allergens": "الحساسية : "
+    },
+    "patient_information": {
+        "national_id": "الهوية الوطنية : ",
+        "patient_name": "اسم المريض : ",
+        "patient_date": "تاريخ الميلاد : ",
+        "patient_blood_type": "فصيلة الدم : ",
+        "patient_height": "الطول : ",
+        "patient_weight": "الوزن : ",
+        "smooker": "مدخن : "
+    },
+    "emergency_contact": {
+        "emergency_name": "الأسم : ",
+        "emergency_phone_number": "رقم الهاتف : ",
+        "emergency_relationship": "صلة القرابة : "
+    },
+    "physical_proplem": {
+        "title_screen": "المشاكل الفيزيائية",
+        "physical_proplem_name": "اسم المشكلة الفيزيائية : ",
+        "physical_proplem_type": "نوع المشكلة الفيزيائية : ",
+        "physical_proplem_place": "مكان المشكلة الفيزيائية : ",
+        "title_add_info": "إضافة مشكلة فيزيائية جديدة",
+        "name_label_text": "اسم المشكلة الفيزيائية",
+        "suggestion": "انقر على زر + للاضافة"
+    },
+    "surgical_record": {
+        "title_screen": "سجل العمليات الجراحية",
+        "surgical_record_name": "اسم العملية : ",
+        "surgical_record_date": "تاريخ العملية : ",
+        "title_add_info": "إضافة معلومات عملية جراحية جديدة",
+        "name_label_text": "اسم العملية",
+        "date_label_text": "تاريخ العملية",
+        "suggestion": "انقر على زر + للاضافة"
+    },
+    "my_medication": {
+        "title_screen": "دوائي",
+        "my_medication_name": "اسم الدواء  : ",
+        "my_medication_units": "جرعات الدواء : ",
+        "my_medication_time": "وقت الدواء : ",
+        "title_add_info": "إضافة معلومات دواء جديدة",
+        "name_label_text": "اسم الدواء",
+        "unit_label_text": "جرعات الدواء",
+        "time_label_text": "وقت الدواء",
+        "suggestion": "انقر على زر + للاضافة"
+    },
+    "laboratory_result": {
+        "title_screen": "نتائج المختبر",
+        "laboratory_result_name": "اسم تحاليل المختبر : ",
+        "laboratory_result_date": "تاريخ تحاليل المختبر : ",
+        "title_add_info": "إضافة معلومات تحاليل مختبر جديدة",
+        "name_label_text": "اسم تحاليل المختبر",
+        "date_label_text": "تاريخ تحاليل المختبر",
+        "suggestion": "انقر على زر + للاضافة",
+        "laboratory_name": "تحاليل شاملة"
+        
+    },
+    "x-rays_reports": {
+        "title_screen": "تقارير الأشعة السينية",
+        "x-rays_reports_name": "اسم الأشعة : ",
+        "x-rays_reports_date": "تاريخ الأشعة : ",
+        "title_add_info": "إضافة معلومات أشعة السينية جديدة",
+        "name_label_text": "اسم الأشعة",
+        "date_label_text": "اسم الأشعة",
+        "suggestion": "انقر على زر + للاضافة"
+    },
+    "add_new_info_model_sheet_widget": {
+        "title_widget": "الرجاء إدخال جميع البيانات : ",
+        "send_add": "إرسال"
+    },
+    "pick_file": {
+        "buttom_name": "إرفاق ملف"
+    },
+    "dropDownPhysicalProblrmType": {
+        "value1": "إصابة",
+        "value2": "شلل",
+        "hint_text_type": "اختار نوع المشكلة الفيزيائية"
+    },
+    "dropDownPlacementIssue": {
+        "value1": "الرأس",
+        "value2": "القلب",
+        "value3": "اليد اليمنى",
+        "value4": "اليد اليسرى",
+        "value5": "القدم الأيمن",
+        "value6": "القدم الأيسر",
+        "value7": "الركبة اليمنى",
+        "value8": "الركبة الأيسرى",
+        "value9": "المرفق الأيمن",
+        "value10": "المرفق الأيسر",
+        "value11": "العامود الفقري",
+        "hint_text_surgical_place": "اختار مكان العملية الجراحية",
+        "hint_text_physical_place": "اختار مكان المشكلة الفيزيائية"
+    },
+    "dropDownInsuranceStatus": {
+        "value1": "فعال",
+        "value2": "غير فعال",
+        "hint_text_insurance_status": "اختار حالة التأمين الصحي"
+    },
+    "dropDownRelationshipToPatient": {
+        "value1": "الوالدين",
+        "value2": "أقارب",
+        "value3": "أصدقاء",
+        "hint_text_type": "اختار صلة الأقارب"
+    },
+    "drawer_widget": {
+        "account": "الحساب",
+        "emergency_contact": "جهات الإتصال الطارئة",
+        "medical_inforamtion": "السجل الطبي",
+        "my_doctor": "معلومات طبيبي",
+        "theme": "وضع الجهاز",
+        "language": "إنجليزي",
+        "signout": "تسجيل خروج"
+    },
+    "drawer_account": {
+        "title_screen": "حسابي",
+        "title": "معلومات حسابي",
+        "hint_title": "فضلا قم بتعبئة جميع بياناتك لنتمكن من إكمال بطاقتك الطبية بنجاح.",
+        "national_id": "الهوية الوطنية",
+        "birthday": "تاريخ الميلاد",
+        "height": "الطول",
+        "weight": "الوزن",
+        "blood_type": "فصيلةالدم",
+        "save": "حفظ"
+    },
+    "drawer_emergency_contact": {
+        "title_screen": "جهات الإتصال الطارئة",
+        "hint_title_emergency_contact": "فضلا قم بتعبئة بيانات جهات الاتصال الطارئة تحسبا للحالات الحرجة.",
+        "emergency_name": "اسم جهة الاتصال الطارئة",
+        "emergency_phone": "رقم الهاتف جهة الاتصال الطارئة",
+        "relation": "صلة القرابة",
+        "save": "إضافة"
+    },
+    "drawer_medical_inforamtion": {
+        "title_screen": "سجلي الطبي"
+    },
+    "drawer_my_doctor": {
+        "title_screen": "معلومات طبيبي"
+    },
+    "deleteDialog": {
+        "title": "هل انت متأكد من الحذف",
+        "yes": "نعم ",
+        "cancel": "إلغاء الأمر",
+        "titlesignout": "هل انت متأكد من تسجيل الخروج"
+    },
+    "edit_medical_info": {
+        "title": "فضلا قم اضافة الأمراض المزمنة والحساسية ان وجد",
+        "chronic_diseases": "الامراض المزمنة",
+        "allergens": "الحساسية",
+        "add_chronic_diseases": "إضافة الأمراض المزمنة",
+        "add_allergens": "إضافة الحساسية",
+        "hint_title": "فضلا قم بتعبئة بياناتك الصحية",
+        "communication": "إضافة تحدي التواصل",
+        "medical_device": "اضافة جهاز طبي",
+        "smooker": "هل انت مدخن ؟",
+        "yes": "نعم",
+        "No": "لا",
+        "confirm_mess": " تم تحديث معلومات الطبية بنجاح",
+        "ok": "حسنا",
+        "chronic_diseases_title": "قم بإضافة الأمراض المزمنة",
+        "allergens_title": "قم بإضافة الحساسية"
+    },
+    "insurance_drawer": {
+        "title": "التأمين الطبي",
+        "app_title": "تأميني الطبي",
+        "hint_title": "معلومات التأمين الطبي",
+        "company_name": "اسم الشركة :",
+        "patient_insurens_id": "رقم التأمين الطبي للمريض : ",
+        "coverage": "التغطية : ",
+        "contact": "التواصل : ",
+        "status": "الحالة : ",
+        "edit_company_name": "اسم الشركة",
+        "edit_patient_insurens_id": "رقم التأمين الطبي للمريض",
+        "edit_coverage": "التغطية",
+        "edit_contact": "التواصل",
+        "edit_status": "الحالة",
+        "confirm_mess": "تم تحديث معلومات االتأمين الطبي الخاص بك بنجاح",
+        "ok": "حسنا"
+    },
+    "print_medical_card": {
+        "confirm_mess": "سوف يتم طباعة البطاقة الطبية فورا وسنتواصل معكم قريبا بإذن الله",
+        "ok": "حسنا"
+    }
+}

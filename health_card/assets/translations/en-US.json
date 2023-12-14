@@ -1,0 +1,280 @@
+{
+    "user_type_screen": {
+        "userSelection1": "I am a paramedic",
+        "userSelection2": "I am a user",
+        "buttonText": "Continue",
+        "buttonText2": "التبديل للغة العربية"
+    },
+    "Patient_regestraion_screen": {
+        "title": "Registration",
+        "name": "Full Name",
+        "nameHint": "Enter your full name",
+        "email": "Email",
+        "emailHint": "Enter your email",
+        "password": "Password",
+        "passwordHint": "Enter Password",
+        "phone": "Phone",
+        "phoneHint": "Enter phone number",
+        "text1": "Already a Moseefy client? ",
+        "text2": "Login",
+        "phoneFormatError": "Please enter a valid phone to register",
+        "passwordFormatError": "Password length should be at least 6 digits",
+        "emailFormatError": "Please enter a valid email to register",
+        "validatorMessage": "Please fill all required fields to register",
+        "validatorMessage2": "Please fill all required fields to uploud",
+        "buttonText": "Register",
+        "errorMessage": "Error was found"
+    },
+    "Patient_login_screen": {
+        "title": "Login",
+        "email": "Email",
+        "emailHint": "Enter your email",
+        "password": "Password",
+        "passwordHint": "Enter Password",
+        "text1": "You don't have an account? ",
+        "text2": "Create account",
+        "buttonText": "login",
+        "errorMessage": "invalid credintals"
+    },
+    "ParamedicRegistrationScreen": {
+        "title": "Enter your Moseefy ID",
+        "buttonText": "Submit",
+        "note": "Note: this id is given to paramedics whom information was submitted to Moseefy database through an employer",
+        "notfoundmessage": "No Paramedic with this id was found"
+    },
+    "otpscreen": {
+        "message": "Please enter OTP sent to email ",
+        "buttonText": "Enter"
+    },
+    "main_screen": {
+        "title": "sergery report",
+        "toptitle": "Helth Status",
+        "doctortext": "Doctor",
+        "medicinetext": "Medicine",
+        "medicrep": "Medic Report",
+        "buttonText": "Continue",
+        "nametext": "Name",
+        "agetext": "Age",
+        "IDtext": "ID",
+        "weighttext": "weight",
+        "heighttext": "height",
+        "bloodtext": " bloodType",
+        "birthdaytext": " birthday"
+    },
+    "patient_home_screen": {
+        "welcoming_word": "Hello",
+        "patient_card_title": "Medical Card : ",
+        "patient_history_title": "Medical Record : ",
+        "first_container": "My Doctor",
+        "second_container": "Medical Information",
+        "third_container": "Physical Proplem",
+        "fourth_container": "Surgical Record",
+        "fifth_container": "My Medication",
+        "sixth_container": "Laboratory Result",
+        "seventh_container": "X-Rays Reports"
+    },
+    "my_doctor_view": {
+        "title_screen": "My Doctor",
+        "practice_name": "Practice Name : ",
+        "practice_id": "Practice ID : ",
+        "practice_specialty": "Specialty : ",
+        "practice_address": "Address : ",
+        "practice_contact": "Contact : ",
+        "description": "Please add your doctor information",
+        "doctor_name": "Doctor Name",
+        "doctor_specialty": "Doctor Specialty",
+        "doctor_address": "Doctor Address",
+        "doctor_email": "Doctor Email",
+        "doctor_phone": "Doctor Phone Number",
+        "confirm_mess": "Your doctor information has been updated successfully",
+        "OK": "OK"
+    },
+    "medical_inforamtion": {
+        "title_screen": "My Medical Information",
+        "patient_information": "Patient Information : ",
+        "emergency_contact": "Emergency Contact : ",
+        "chronic_disease": "Chronic Disease : ",
+        "communication_challenge": "Communication Challenge : ",
+        "medical_device": "Medical Device : ",
+        "allergens": "Allergens : "
+    },
+    "patient_information": {
+        "national_id": "National ID : ",
+        "patient_name": "Patient Name : ",
+        "patient_date": "Date of Birth : ",
+        "patient_blood_type": "Blood Type : ",
+        "patient_height": "Height : ",
+        "patient_weight": "Weight : ",
+        "smooker": "Smooker : "
+    },
+    "emergency_contact": {
+        "emergency_name": "Name : ",
+        "emergency_phone_number": "Phone Number : ",
+        "emergency_relationship": "Relationship : "
+    },
+    "physical_proplem": {
+        "title_screen": "Physical Proplem",
+        "physical_proplem_name": " Proplem Name  : ",
+        "physical_proplem_type": "Physical Proplem Type  : ",
+        "physical_proplem_place": "Physical Proplem place  : ",
+        "title_add_info": "Add New Physical Problem",
+        "name_label_text": "Physical Proplem Name",
+        "suggestion": "Tap on + to add"
+    },
+    "surgical_record": {
+        "title_screen": "Surgical Record",
+        "surgical_record_name": "Surgery Name  : ",
+        "surgical_record_date": "Surgery Date  : ",
+        "title_add_info": "Add New Surgery Information",
+        "name_label_text": "Syrgery Name",
+        "date_label_text": "Syrgery Date",
+        "suggestion": "Tap on + to add"
+    },
+    "my_medication": {
+        "title_screen": "My Medication",
+        "my_medication_name": "Medication Name  : ",
+        "my_medication_units": "Medication Units : ",
+        "my_medication_time": "Medication Time : ",
+        "title_add_info": "Add New Medication Information",
+        "name_label_text": "Medication Name",
+        "unit_label_text": "Medication Units",
+        "time_label_text": "Medication Time",
+        "suggestion": "Tap on + to add"
+    },
+    "laboratory_result": {
+        "title_screen": "My Laboratory Result",
+        "laboratory_result_name": "Laboratory test Name : ",
+        "laboratory_result_date": "Laboratory test Date : ",
+        "title_add_info": "Add New Laboratory test Information",
+        "name_label_text": "Laboratory test Name",
+        "date_label_text": "Laboratory test Date",
+        "suggestion": "Tap on + to add",
+        "laboratory_name": "Comprehensive medical tests"
+    },
+   
+    "x-rays_reports": {
+        "title_screen": "X-Rays Reports",
+        "x-rays_reports_name": "X-Rays Name : ",
+        "x-rays_reports_date": "X-Rays Date : ",
+        "title_add_info": "Add New X-Ray Information",
+        "name_label_text": "X-Ray Name",
+        "date_label_text": "X-Ray Date",
+        "suggestion": "Tap on + to add"
+    },
+    "add_new_info_model_sheet_widget": {
+        "title_widget": "Kindly enter all information :",
+        "send_add": "Send"
+    },
+    "pick_file": {
+        "buttom_name": "Pick File"
+    },
+    "dropDownPhysicalProblrmType": {
+        "value1": "Ingury",
+        "value2": "Disability",
+        "hint_text_type": "Select Physical Proplem Type"
+    },
+    "dropDownPlacementIssue": {
+        "value1": "Heart",
+        "value2": "Head",
+        "value3": "Right Hand",
+        "value4": "Left Hand",
+        "value5": "Right Leg",
+        "value6": "Left Leg",
+        "value7": "Right Knee",
+        "value8": "Left Knee",
+        "value9": "Right Elbow",
+        "value10": "Left Elbow",
+        "value11": "Spine",
+        "hint_text_physical_place": "Select Physical Proplem Place",
+        "hint_text_surgical_place": "Select Surgical Place"
+    },
+    "dropDownInsuranceStatus": {
+        "value1": "Active",
+        "value2": "Not Active",
+        "hint_text_insurance_status": "Select Insurance Status"
+    },
+    "dropDownRelationshipToPatient": {
+        "value1": "Parent",
+        "value2": "Relative",
+        "value3": "Friend",
+        "hint_text_type": "Select Relationship"
+    },
+    "drawer_widget": {
+        "account": "Account",
+        "medical_inforamtion": "Medical Information",
+        "emergency_contact": "Emergency Contact",
+        "my_doctor": "My Doctor Information",
+        "theme": "Theme",
+        "language": "Arabic",
+        "signout": "Signout"
+    },
+    "drawer_account": {
+        "title_screen": "My Account",
+        "title": "Account Information",
+        "hint_title": "Please fill out all your information so that we can complete the medical card successfully.",
+        "national_id": "National ID",
+        "birthday": "Date of Birth",
+        "height": "height",
+        "weight": "weight",
+        "blood_type": "Blood Type",
+        "save": "Save"
+    },
+    "drawer_emergency_contact": {
+        "title_screen": "Emergency Contact",
+        "hint_title_emergency_contact": "Please fill out your emergency contact information in case of critical situations.",
+        "emergency_name": "Emergency Name Contact",
+        "emergency_phone": "Emergency Phone Number Contact",
+        "relation": "Relative Relation",
+        "save": "Add"
+    },
+    "drawer_medical_inforamtion": {
+        "title_screen": "My Medical Information"
+    },
+    "drawer_my_doctor": {
+        "title_screen": "My Doctor Information"
+    },
+    "deleteDialog": {
+        "title": "Are you sure you want to delete?",
+        "yes": "Yes",
+        "cancel": "Cancel",
+        "titlesignout": "Are you sure you want to signout?"
+    },
+    "edit_medical_info": {
+        "title": " Please Add your chronic Diseases or allergens if you have",
+        "chronic_diseases": "Chronic Diseases",
+        "allergens": "Allergens",
+        "add_chronic_diseases": "Add Chronic Diseases",
+        "add_allergens": "Add Allergens",
+        "hint_title": "Please Complete your Medical Information",
+        "communication": "Add Communication Challange",
+        "medical_device": "Add Medical Device",
+        "smooker": "Are you smooker ?",
+        "yes": "Yes",
+        "No": "No",
+        "confirm_mess": "Your Medical information has been updated successfully",
+        "ok": "Ok",
+        "chronic_diseases_title": "Please add your Chronic Disease",
+        "allergens_title": "Please add your Allergens"
+    },
+    "insurance_drawer": {
+        "title": " Insurance",
+        "app_title": "My Insurens",
+        "hint_title": "My insurens information",
+        "company_name": "Company Name :",
+        "patient_insurens_id": "Patient Insurens ID : ",
+        "coverage": "Coverage : ",
+        "contact": "Contact : ",
+        "status": "Status : ",
+        "edit_company_name": "Company Name",
+        "edit_patient_insurens_id": "Patient Insurens ID",
+        "edit_coverage": "Coverage",
+        "edit_contact": "Contact",
+        "edit_status": "Status",
+        "confirm_mess": "Your Insurance information has been updated successfully",
+        "ok": "ok"
+    },
+    "print_medical_card": {
+        "confirm_mess": "The medical card will be printed immediately and we will contact you soon, God willing.",
+        "ok": "ok"
+    }
+}
